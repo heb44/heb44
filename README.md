@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @heb44
+- 👀 I’m interested in python
+- 🌱 I’m currently learning qt
